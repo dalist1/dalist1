@@ -12,17 +12,6 @@
 - 💻 DevOps, Automation and CyberSecurity Research.
 ---
 
-<h2 align="center"> Let's get connected:</h2>
-
-<p align="center">
-<a href="https://dalist1.github.io/#gh-light-mode-only"><img align="center" src="./img/globe-light.svg" alt="dalist1" height="30" width="40" /></a>
-<a href="https://dalist1.github.io/#gh-dark-mode-only"><img align="center" src="./img/globe-dark.svg" height="30" width="40" alt="dalist1"/></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/frensiqatipi/#gh-light-mode-only"> <img align="center" src="./img/linkedin-light.svg" height="30" width="40" alt="dalist1" /></a>
-<a href="https://www.linkedin.com/in/frensiqatipi/#gh-dark-mode-only"> <img align="center" src="./img/linkedin-dark.svg" height="30" width="40" alt="dalist1" /></a>
-&nbsp;&nbsp;
-</p>
-
 
 <div align="center">
 <h2>GitHub Stats:</h2>
