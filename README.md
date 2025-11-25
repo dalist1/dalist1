@@ -12,14 +12,6 @@
 <div align="center">
 <h2>GitHub Stats:</h2>
 <p>
-<a href="https://frensiqatipi.vercel.app"><img src="https://github-streaks.dalist.workers.dev?v=2" alt="GitHub Stats" /></a>
+<a href="https://frensiqatipi.vercel.app"><img src="https://github-streaks.dalist.workers.dev?v=3" alt="GitHub Stats" /></a>
 </p>
-</div>
-
----
-
-<div align="center">
-
-[![View Portfolio →](https://img.shields.io/badge/View_Portfolio_→-8B5CF6?style=for-the-badge)](https://frensiqatipi.vercel.app)
-
 </div>
