@@ -12,7 +12,7 @@
 <div align="center">
 <h2>GitHub Stats:</h2>
 <p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dalist1&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" /></a>
+<a href="https://frensiqatipi.vercel.app"><img src="https://github-streaks.dalist.workers.dev" alt="GitHub Streaks" /></a>
 </p>
 </div>
 
