@@ -12,7 +12,7 @@
 <div align="center">
 <h2>GitHub Stats:</h2>
 <p>
-<a href="https://frensiqatipi.vercel.app"><img src="https://github-streaks.dalist.workers.dev" alt="GitHub Stats" /></a>
+<a href="https://frensiqatipi.vercel.app"><img src="https://github-streaks.dalist.workers.dev?v=2" alt="GitHub Stats" /></a>
 </p>
 </div>
 
