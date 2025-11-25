@@ -20,6 +20,6 @@
 
 <div align="center">
 
-[![View Portfolio →](https://img.shields.io/badge/View_Portfolio_→-8B5CF6?style=for-the-badge)](https://dalist.dev)
+[![View Portfolio →](https://img.shields.io/badge/View_Portfolio_→-8B5CF6?style=for-the-badge)](https://frensiqatipi.vercel.app)
 
 </div>
