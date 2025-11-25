@@ -7,8 +7,10 @@
 - 🚩 Competing in Capture the Flag competitions.
 - 💻 DevOps, Automation and CyberSecurity Research.
 
+<br><br>
+
 <div align="center">
 <p>
-<a href="https://frensiqatipi.vercel.app/#contributions"><img src="https://github-streaks.dalist.workers.dev?v=8" alt="GitHub Stats" /></a>
+<a href="https://frensiqatipi.vercel.app/#contributions"><img src="https://github-streaks.dalist.workers.dev?v=9" alt="GitHub Stats" /></a>
 </p>
 </div>
