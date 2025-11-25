@@ -12,7 +12,7 @@
 <div align="center">
 <h2>GitHub Stats:</h2>
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dalist1&theme=algolia&border_radius=20&hide_border=true" alt="Github Streak"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dalist1&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" /></a>
 </p>
 </div>
 
